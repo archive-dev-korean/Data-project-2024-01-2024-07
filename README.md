@@ -10,10 +10,10 @@
 
 | 파일 | 내용 |
 |---|---|
-| day4-01_dataframe_api.ipynb | PySpark DataFrame API 기초 (읽기/쓰기, 결측치, filter, 파티셔닝) |
-| day4-02_advanced.ipynb | PySpark 심화 (groupBy, join, window function, UDF) |
+| day4-01.ipynb | PySpark DataFrame API 기초 (읽기/쓰기, 결측치, filter, 파티셔닝) |
+| day4-02.ipynb | PySpark 심화 (groupBy, join, window function, UDF) |
 | day5-01.ipynb | Spark ML 기반 머신러닝 (선형회귀, 랜덤포레스트) |
-| pyspark_assignment.ipynb | PySpark 실전 과제 (9문제) |
+| pyspark과제.ipynb | PySpark 실전 과제 (9문제) |
 
 **주요 기술**
 - SparkSession 기반 대용량 데이터 처리
